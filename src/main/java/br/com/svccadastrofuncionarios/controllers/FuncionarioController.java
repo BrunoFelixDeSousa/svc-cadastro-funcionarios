@@ -5,7 +5,6 @@ import br.com.svccadastrofuncionarios.model.dto.FuncionarioResponse;
 import br.com.svccadastrofuncionarios.model.entities.FuncionarioEntity;
 import br.com.svccadastrofuncionarios.services.FuncionarioService;
 import lombok.AllArgsConstructor;
-import org.springframework.beans.BeanUtils;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
